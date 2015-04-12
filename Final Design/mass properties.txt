@@ -1,0 +1,32 @@
+Mass properties of final-1
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 154.05 grams
+
+Volume = 114515.81 cubic millimeters
+
+Surface area = 145994.73  square millimeters
+
+Center of mass: ( millimeters )
+	X = -1.15
+	Y = 6.51
+	Z = 6.45
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = (-0.02, 0.00, 1.00)   	Px = 296479.66
+	 Iy = (1.00, 0.01, 0.02)   	Py = 303188.07
+	 Iz = (-0.01, 1.00, -0.00)   	Pz = 510413.37
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 303192.88	Lxy = 1180.92	Lxz = -115.27
+	Lyx = 1180.92	Lyy = 510406.18	Lyz = 314.02
+	Lzx = -115.27	Lzy = 314.02	Lzz = 296482.05
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 316115.94	Ixy = 31.76	Ixz = -1253.95
+	Iyx = 31.76	Iyy = 517011.02	Iyz = 6775.28
+	Izx = -1253.95	Izy = 6775.28	Izz = 303205.30
